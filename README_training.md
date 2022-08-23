@@ -23,4 +23,5 @@ In order to train this model with your data, you would need to provide one folde
 
 Congrats! You have trained and deployed a custom model that can recommend similar to users per their behaviour!
 
-[See here how we created this blueprint](https://github.com/cnvrg/Blueprints/tree/main/Recommenders)
+[See here how we created this blueprint]
+(https://github.com/cnvrg/recommenders-blueprint)

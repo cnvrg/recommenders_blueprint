@@ -8,4 +8,5 @@ For using this pretrained recommender model, you will need to create a ready-to-
 
 Congrats! You have deployed an API endpoint that recommend similar items to users
 
-[See here how we created this blueprint](https://github.com/cnvrg/Blueprints/tree/main/Recommenders)
+[See here how we created this blueprint]
+(https://github.com/cnvrg/recommenders-blueprint)
