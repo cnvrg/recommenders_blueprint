@@ -9,6 +9,4 @@ Complete the following steps to deploy this recommender API endpoint:
    - Use the Try it Live section with a relevant user ID to check your model's predictions.
    - Use the bottom integration panel to integrate your API with your code by copying in your code snippet.
 
-An API endpoint that recommends similar items to users based on their behavior has now been deployed.
-
-Click [here](link) for detailed instructions to run this blueprint. To learn how this blueprint was created, click [here](https://github.com/cnvrg/recommenders-blueprint).
+An API endpoint that recommends similar items to users based on their behavior has now been deployed. To learn how this blueprint was created, click [here](https://github.com/cnvrg/recommenders-blueprint).
