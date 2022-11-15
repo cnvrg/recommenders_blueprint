@@ -21,6 +21,4 @@ Complete the following steps to train this recommenders model:
    * Use the Try it Live section with a relevant user ID to check the model's predictions.
    * Use the bottom integration panel to integrate your API with your code by copying in your code snippet.
 
-A custom model and an API endpoint, which can recommend similar items to customers according to their behaviors, have now been trained and deployed.
-
-Click [here](link) for detailed instructions to run this blueprint. To learn how this blueprint was created, click [here](https://github.com/cnvrg/recommenders-blueprint).
+A custom model and an API endpoint, which can recommend similar items to customers according to their behaviors, have now been trained and deployed. To learn how this blueprint was created, click [here](https://github.com/cnvrg/recommenders-blueprint).
